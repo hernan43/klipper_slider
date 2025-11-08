@@ -19,7 +19,7 @@
  * [8mm thrust bearing](https://www.amazon.com/uxcell-F8-16M-Miniature-Bearings-8x16x5mm/dp/B07QLTXJDH/ref=sr_1_3?crid=1ICTXJUFMBO5V&dib=eyJ2IjoiMSJ9.NHy1q2rAzlC7axbvJv9Kif_VNoasDezLhE-3T3ZfvA7XvySvp5rkHIIeeGtsT9hHqBzjqAsOzj3BFTeLoLTpx2XYHLwxOqMsLS4Lb9Ov0NoofPH9I1D9SsG1pP8KAWgAtOxq1XTNRiCziFjP8DgcLOebkVag9I3zCtJe9lbSIc8Ofay3n6CKZ5a4QkAyBI7QI0nBwIdfn1YDqzYsAQA3Qz-Il4hY909h6C6kXvugTyU.BDtvUcAjCJy7jO-JtupA8Xxux9au_2QoD-cEEIa4ZpI&dib_tag=se&keywords=16mm%2Bthrust%2Bbearing&qid=1761617048&sprefix=16mm%2Bthrust%2Bbearing%2Caps%2C109&sr=8-3&th=1)
  * [228-2GT-6 Pulley Belt](https://www.amazon.com/dp/B0CMHYBKVN?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
  * [3D printed rotating base](https://www.printables.com/model/232492-diy-camera-slider/files)
- * [3D printed mounting plate for tripod head] (https://www.printables.com/model/1473628-modified-pan-head-platform)
+ * [3D printed mounting plate for tripod head](https://www.printables.com/model/1473628-modified-pan-head-platform)
 
 ## Software
  
