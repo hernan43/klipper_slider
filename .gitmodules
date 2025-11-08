@@ -1,0 +1,3 @@
+[submodule "klipper_slider_web"]
+	path = klipper_slider_web
+	url = https://github.com/hernan43/klipper_slider_web.git
